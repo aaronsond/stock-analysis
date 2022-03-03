@@ -4,6 +4,8 @@
 
 This analysis looks at volume and return on certain stocks over a given year with given data. This will help in making investment decisions. The project also contains modular code that should make it easy to edit, or run further analysis on similarly formatted data in the future. 
 
+This project uses Excel and VBA to accomplish the analysis.
+
 ## Results
 
 ### 2017
